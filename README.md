@@ -19,3 +19,8 @@
 
 * [Comcast go MPEG transport streams library](https://github.com/Comcast/gots/blob/master/scte35/)
 * [Comcast JS scte-35 parser](https://github.com/Comcast/scte35-js)
+
+## SCTE-35 platform documentation
+
+* [Unified Origin live SCTE-35](https://docs.unified-streaming.com/documentation/live/scte-35.html)
+* [AWS Elemental MediaLive SCTE-35](https://docs.aws.amazon.com/medialive/latest/ug/scte-35-message-processing.html)
