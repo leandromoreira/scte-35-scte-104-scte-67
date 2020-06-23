@@ -11,7 +11,8 @@
 * [Event Triggering Workgroup for frame-accurate programme related metadata](https://mediaperspectives.nl/publicationdoc/event-triggers-in-television-broadcasting/)
   * [Summary/recomendation for SCTE-104/35](https://mediaperspectives.nl/app/uploads/2018/10/2018-10-16-Media-Perspectives-ETDS.pdf)
   * [Suplementary information](https://mediaperspectives.nl/app/uploads/2018/11/2019-11-08-Media-Perspectives-ETDSS.pdf)
-* [SCTE-67 pratices for scte-35](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwibtveUk_LpAhXJGLkGHQM4DrIQFjAAegQIBBAB&url=http%3A%2F%2Fgost-snip.su%2Fdownload%2Fansi_scte_672010_recommended_practice_for_scte_35_digital_pr&usg=AOvVaw19unuYoKLJ-alpV8dML630)
+* [SCTE-35](https://www.scte.org/pdf-redirect/?url=https://scte-cms-resource-storage.s3.amazonaws.com/ANSI_SCTE-35-2019a-1582645390859.pdf)
+* [SCTE-67](https://www.scte.org/pdf-redirect/?url=https://scte-cms-resource-storage.s3.amazonaws.com/ANSI_SCTE-67-2017-1576856953355.pdf)
 
 ## SCTE-35 tools
 
