@@ -13,6 +13,7 @@
   * [Suplementary information](https://mediaperspectives.nl/app/uploads/2018/11/2019-11-08-Media-Perspectives-ETDSS.pdf)
 * [SCTE-35](https://www.scte.org/pdf-redirect/?url=https://scte-cms-resource-storage.s3.amazonaws.com/ANSI_SCTE-35-2019a-1582645390859.pdf)
 * [SCTE-67](https://www.scte.org/pdf-redirect/?url=https://scte-cms-resource-storage.s3.amazonaws.com/ANSI_SCTE-67-2017-1576856953355.pdf)
+* [Live linear stream ad signaling in the OTT world](https://www.slideshare.net/AllisonDeal5/live-linear-stream-ad-signaling-in-the-ott-world)
 
 ## SCTE-35 tools
 
