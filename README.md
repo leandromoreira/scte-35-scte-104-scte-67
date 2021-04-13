@@ -11,17 +11,16 @@
 * [Event Triggering Workgroup for frame-accurate programme related metadata](https://mediaperspectives.nl/publicationdoc/event-triggers-in-television-broadcasting/)
   * [Summary/recomendation for SCTE-104/35](https://mediaperspectives.nl/app/uploads/2018/10/2018-10-16-Media-Perspectives-ETDS.pdf)
   * [Suplementary information](https://mediaperspectives.nl/app/uploads/2018/11/2019-11-08-Media-Perspectives-ETDSS.pdf)
-* [SCTE-35](https://www.scte.org/pdf-redirect/?url=https://scte-cms-resource-storage.s3.amazonaws.com/ANSI_SCTE-35-2019a-1582645390859.pdf)
+* [SCTE-35](https://scte-cms-resource-storage.s3.amazonaws.com/SCTE-35-2020_notice-1609861286512.pdf)
 * [SCTE-67](https://www.scte.org/pdf-redirect/?url=https://scte-cms-resource-storage.s3.amazonaws.com/ANSI_SCTE-67-2017-1576856953355.pdf)
 * [Live linear stream ad signaling in the OTT world](https://www.slideshare.net/AllisonDeal5/live-linear-stream-ad-signaling-in-the-ott-world)
 
 ## SCTE-35 tools
 
 ### Example source code / parsers
-
 * [Comcast go MPEG transport streams library](https://github.com/Comcast/gots/blob/master/scte35/)
 * [Comcast JS scte-35 parser](https://github.com/Comcast/scte35-js)
-
+* [threefive: scte-35 parser for mpegts, hls, and encoded strings](https://github.com/futzu/threefive)
 ## SCTE-35 platform documentation
 
 * [Unified Origin live SCTE-35](https://docs.unified-streaming.com/documentation/live/scte-35.html)
